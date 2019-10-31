@@ -16,6 +16,8 @@ public class RIP247 {
      */
     public static void main(String[] args) {
         System.out.println("You stole my childhood. How dare you?");
+        
+        System.out.println("NicosGren");
     }
     
 }
