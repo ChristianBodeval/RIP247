@@ -17,6 +17,9 @@ public class RIP247 {
     public static void main(String[] args) {
         System.out.println("Ey");
         
+        Person p = new Person();
+        p.printName();
+        
         System.out.println("NicosGren2");
         System.out.println("NicosGren");
     }
